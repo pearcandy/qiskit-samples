@@ -1,9 +1,6 @@
 
-## Meyer-Wallasch measure by using Qiskit
+## KL-divergence between the empirically-observed probability distribution (i.e., the histogram) and the probability distribution that would result under a Haar-random unitary  by using Qiskit
 
 ### References
-- Qiskit https://qiskit.org/, (qiskit:0.37.1 qiskit-nature:0.4.4)
-- Thomas Hubregtsen, Josef Pichlmeier, Patrick Stecher, Koen Bertels  
-  "Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility, and entangling capability"  
-  https://doi.org/10.1007/s42484-021-00038-w
-
+- S.Sim,P.D.Johnson and A.Aspuru-Guzik
+Adv.Quantum.Technol. 2 1900070 (2019): https://arxiv.org/abs/1905.10876
