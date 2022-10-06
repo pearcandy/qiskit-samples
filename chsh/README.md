@@ -1,5 +1,5 @@
 
-## CHSH
+## CHSH inequality
 
 ### References
 - Learn Qunatum Computation using Qiskit  
