@@ -8,3 +8,4 @@
 - CHSH inequality / CHSH game
 - Quantum Walk (in progeress)
 - Quantum Euclidean Distance
+- IQPE : Iterative Quantum Phase Estimation
