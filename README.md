@@ -1,7 +1,7 @@
 
 ## Sample codes by Qiskit
 
-- getting started with Qiskit
+- getting started with Qiskit (transpile, VQE)
 - ssvqe of H2 molecule 
 - vqd of H2 molecule
 - Meyer-Wallach measure (check entangling capability of PQC)
