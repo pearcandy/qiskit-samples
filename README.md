@@ -1,5 +1,5 @@
 
-## Sample codes by Qiskit
+## Sample codes using qiskit for my study
 
 - getting started with Qiskit (transpile, VQE)
 - ssvqe of H2 molecule 
